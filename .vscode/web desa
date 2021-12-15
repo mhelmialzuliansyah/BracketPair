@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="widht=device-widht, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <title>Negeri Sakti</title>
+    <link href="desa.css" rel="stylesheet"/>
+</head>
+<body>
+
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+            <h1 class="brand-title">NEGERI SAKTI</h1>
+            <h2 class="brand-tagline">WEB desa</h2>
+
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a class="Lokasi" href="https://goo.gl/maps/911PYtB7ZE1CRHcj9">Lokasi</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="Lokasi Kantor Desa" href="https://goo.gl/maps/2LdcLBsTtPyukfwk7">Lokasi Kantor Desa</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            <!-- A wrapper for all the blog posts -->
+            <div class="posts">
+                <h1 class="content-subhead">Jumlah penduduk Negeri Sakti</h1>
+
+                <!-- A single blog post -->
+                <section class="post">
+                    <header class="post-header">
+                        <img width="1000" height="1000" alt="Negeri Sakti&#x27;s avatar" class="post-avatar" src="file:///C:/Users/ASUS/Documents/tabel-jumlah-penduduk-desa-negeri-sakti.webp">
+
+                        <h2 class="post-title">Mengenai Negeri Sakti</h2>
+
+                        <p class="post-meta">
+                            <a href="#" class="post-author">Info Negeri Sakti</a> dan <a class="post-category post-category-design" href="#">Mengenai</a> <a class="post-category post-category-pure" href="#">Negeri Sakti</a>
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>
+                            Negeri Sakti adalah salah satu desa yang berada di wilayah kecamatan Gedong Tataan, Kabupaten Pesawaran, Provinsi Lampung, Indonesia.  <a href="https://nomorkodepos.com/di/lampung/pesawaran/gedong-tataan-gedung-tataan/negeri-sakti/">Kode post</a>. Negeri Sakti merupakan desa yang berada di Kecamatan Gedong Tataan, Kabupaten Pesawaran, Provinsi Lampung, Indonesia.
+                        </p>
+                    </div>
+                </section>
+            </div>
+
+        </div class="post-description">
+        <p>
+            Menurut situs resmi dari dukcapil kabupaten Pesawaran jumlah warga negeri sakti berjumlah 6.051 dengan rincian 3.093 merupakan warga berjenis kelamin laki-laki, dan 2.958 warga perempuan.
+        </p>
+
+                    <div class="post-description">
+                        <p>
+                            Di Desa Negeri Sakti terkenal dengan banyaknya perumahan yang ada. Dari berbagai macam kontraktor dan bermacam - macam model bangunan.
+                        </p>
+                    </div>
+                </section>
+            </div>
+
+            <div class="footer">
+                <div class="Perumahan yang ada di desa Negeri Sakti">
+                    <ul>
+                        <li class="pure-menu-item"><a href="https://www.google.com/search?hl=id&tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=AOaemvJ5yP5NR7sDHoZczfkexf9NEo0plA:1637158218521&q=perumahan+negeri+sakti&rflfq=1&num=10&sa=X&ved=2ahUKEwj-3rjQyZ_0AhX0wjgGHQAwBIgQjGp6BAgOEFI&biw=1536&bih=746&dpr=1.25#rlfi=hd:;si:13730668354886633598,l,ChZwZXJ1bWFoYW4gbmVnZXJpIHNha3RpWh4iFnBlcnVtYWhhbiBuZWdlcmkgc2FrdGkqBAgDEACSARNob3VzaW5nX2RldmVsb3BtZW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJuY1dSdWFrUjNFQUWqAREQASoNIglwZXJ1bWFoYW4oJg,y,twJxdcF6_YU;mv:[[-5.3494038999999995,105.1968095],[-5.3789370000000005,105.1732591]]" class="pure-menu-link">Negeri Sakti Persada</a></li>
+                        <li class="pure-menu-item"><a href="https://www.google.com/search?hl=id&tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=AOaemvJ5yP5NR7sDHoZczfkexf9NEo0plA:1637158218521&q=perumahan+negeri+sakti&rflfq=1&num=10&sa=X&ved=2ahUKEwj-3rjQyZ_0AhX0wjgGHQAwBIgQjGp6BAgOEFI&biw=1536&bih=746&dpr=1.25#rlfi=hd:;si:10785372484803737813,l,ChZwZXJ1bWFoYW4gbmVnZXJpIHNha3RpWh4iFnBlcnVtYWhhbiBuZWdlcmkgc2FrdGkqBAgDEACSAQ9nYXRlZF9jb21tdW5pdHmaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmpNMHBMVVROUlJSQUKqAREQASoNIglwZXJ1bWFoYW4oJg,y,8XM2pj0w4fQ;mv:[[-5.3494038999999995,105.1968095],[-5.3789370000000005,105.1732591]]"class="pure-menu-link">Perumahan Griya Abadi Negeri Sakti</a></li>
+                        <li class="pure-menu-item"><a href="https://www.google.com/search?hl=id&tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=AOaemvJ5yP5NR7sDHoZczfkexf9NEo0plA:1637158218521&q=perumahan+negeri+sakti&rflfq=1&num=10&sa=X&ved=2ahUKEwj-3rjQyZ_0AhX0wjgGHQAwBIgQjGp6BAgOEFI&biw=1536&bih=746&dpr=1.25#rlfi=hd:;si:9318978090244125458,l,ChZwZXJ1bWFoYW4gbmVnZXJpIHNha3RpWh4iFnBlcnVtYWhhbiBuZWdlcmkgc2FrdGkqBAgDEACSAQ9nYXRlZF9jb21tdW5pdHmaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUmpjR054WTNablJSQUKqAREQASoNIglwZXJ1bWFoYW4oJg,y,CaKiPBHKn8k;mv:[[-5.3494038999999995,105.1968095],[-5.3789370000000005,105.1732591]]"class="pure-menu-link">Perumahan Griya Abadi Negeri Sakti II</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+body {
+    background-color: cornsilk;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 20px;
+    margin: 2;
+}
